@@ -1,0 +1,5 @@
+.
+./f2.txt
+./f7.txt
+./f1.txt
+./new.txt
