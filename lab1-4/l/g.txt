@@ -1,0 +1,3 @@
+if [[ -f "g.txt" ]];then
+echo "hello"
+fi
